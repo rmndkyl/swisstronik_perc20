@@ -1,4 +1,4 @@
-# swisstronik-erc-721
+# swisstronik-perc-20
 
 This project sets up a Hardhat environment to deploy and interact with an ERC-721 (NFT) contract on the Swisstronik testnet. Follow the steps below to get started.
 
@@ -13,7 +13,7 @@ Ensure you have the following installed:
 1. Clone the repository:
     ```sh
 	git clone https://github.com/rmndkyl/swisstronik_perc20.git
-    cd swisstronik-erc-721
+    cd swisstronik_perc20
     ```
 
 2. Make the setup script executable and run it:
